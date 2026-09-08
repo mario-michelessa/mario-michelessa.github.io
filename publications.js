@@ -5,7 +5,7 @@ window.PUBLICATIONS = [
     venue: 'ICML 2026',
     thumbnail: 'images/publications/transformer-outputs.jpg',
     selected: 1,
-    award: 'Oral · top 0.8% of submissions',
+    award: 'Oral',
     links: {
       paper: 'https://arxiv.org/abs/2605.22223',
       code: 'https://github.com/mario-michelessa/transformers_accessibility'
